@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/Users/patti.shin/Documents/ShinSandbox/TinkerBeacon/tinker-beacon/workspace/.metadata/.plugins/org.eclipse.jdt.core
+1128463563.index
+857358465.index
